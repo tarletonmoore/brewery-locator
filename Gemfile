@@ -72,5 +72,6 @@ group :test do
 end
 
 gem 'csv'
-
+gem 'geokit-rails'
+gem 'geocoder', '~> 1.3', '>= 1.3.7'
 gem 'rack-cors'
