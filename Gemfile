@@ -72,3 +72,5 @@ group :test do
 end
 
 gem 'csv'
+
+gem 'rack-cors'
