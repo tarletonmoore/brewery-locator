@@ -11,3 +11,9 @@
 #   )
 #   i += 1
 # end
+
+# location = Geocoder.search("46 Durham Rd, Freeport, Maine, 4032")
+# lat = location.first.coordinates[0]
+# long = location.first.coordinates[1]
+# p lat
+# p long
